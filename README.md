@@ -1,1 +1,2 @@
-# Time_Series
+## Time Series Analysys 
+Time series for cryptocurrency prediction
